@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murtaza, a 3rd year CS student @ UWaterloo!
 - 👀 I’m interested in AI/ML and Software Engineering.
-- 🌱 I’m currently learning Concepts in Competitive Programming and Web Dev.
+- 🌱 I’m currently learning Concepts in Competitive Programming and Android Development.
 - ⚡ Fun fact: I love playing soccer when I am not coding!
 
 <!---
